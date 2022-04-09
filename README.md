@@ -45,5 +45,5 @@ DOI = {10.3390/s21093025}
 }
 ```
 ---
- Run the script: `'pcap2Csv.py'`
+ Run the script to convert pcap files into csv : `'Code/pcap2Csv.py'`
 
