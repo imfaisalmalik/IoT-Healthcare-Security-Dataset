@@ -1,7 +1,7 @@
-# IoT Healthcare Security Dataset
-IoT Healthcare Security Dataset
+# IoT Healthcare Security Code & Dataset
+IoT Healthcare Security Code & Dataset
 
-- This dataset contains the normal and malicious traffic of an IoT healthcare use case.
+- This repository contains IoT normal and malicious traffic dataset and code of an IoT healthcare use case.
 
 - We created a use case of an IoT-based ICU with the capacity of 2 beds, where each bed is equipped with nine patient monitoring devices (i.e., sensors) and one control unit called as Bedx-Control-Unit. All these devices were created using the IoT-Flock tool (available at: https://github.com/ThingzDefense/IoT-Flock )
 
